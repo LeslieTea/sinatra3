@@ -1,8 +1,6 @@
 source "https://rubygems.org"
-ruby "2.1.5"
+ruby "1.9.3"
 
 gem 'sinatra'
 gem 'thin'
 gem 'pry'
-gem 'jquery-rails'
-gem 'sprockets'
